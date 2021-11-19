@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ### Hi there, I'm Vincenzo Cozzi 
 
 ## I'm a Developer!
