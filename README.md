@@ -50,6 +50,9 @@
 <a href="https://www.linkedin.com/in/cozzivincenzo/">
   <img align="left" alt="linkedin" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://anilist.co/user/Minz/">
+    <img align="left" alt="linkedin" width="25px" src="https://anilist.co/img/icons/icon.svg" />
+</a>
 
 
 
