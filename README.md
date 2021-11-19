@@ -1,3 +1,5 @@
+<div style="background_color: #24292f">
+
 ### Hi there, I'm Vincenzo Cozzi 
 
 ## I'm a Developer!
@@ -54,5 +56,5 @@
     <img align="left" alt="linkedin" width="25px" src="https://anilist.co/img/icons/icon.svg" />
 </a>
 
-
+</div>
 
