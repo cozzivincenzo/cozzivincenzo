@@ -42,7 +42,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cozzivincenzo&show_icons=true&bg_color=171717&title_color=c40b15&text_color:e8e8e8" alt="cozzivincenzo" width="400" margin="0px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozzivincenzo&layout=compact&bg_color=171717&title_color=c40b15&text_color:fff" alt="cozzivincenzo" width="300"/>
 
-</br></br></br></br>
+</br></br></br>
 
 **Contacts & Socials**
 
