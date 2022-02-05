@@ -16,7 +16,7 @@
 <div>
     <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=plastic&logo=php&logoColor=black" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-1a73e8?style=plastic&logo=python&logoColor=yellow" />
-    <img alt="C" src="https://img.shields.io/badge/-Python-46a2f1?style=plastic&logo=c&logoColor=white" />
+    <img alt="C" src="https://img.shields.io/badge/-C-46a2f1?style=plastic&logo=c&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=plastic&logo=javascript&logoColor=white" />
     <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS3-007ACC?style=plastic&logo=css3&logoColor=white" />
