@@ -3,9 +3,8 @@
 ### Hi there, I'm Vincenzo Cozzi 
 
 ## I'm a Developer!
-- 👔 I’m currently working as full-stack web developer at <a target="_blank" href="https://www.salernodev.com/">salernodev</a>
-- 📚 I'm currently studying <a target="_blank" href="https://corsi.unisa.it/Informatica/en/home">Computer Science</a> at <a target="_blank" href="https://web.unisa.it/en">UNISA</a>
-- 🖥️ I love self-host stuff on my server
+- 👔 I’m currently working as full-stack web developer at <a target="_blank" href="https://www.sofinn.it/">Sofinn</a>
+- 🖥️ I love self-host stuff on my server and do stuff with python
 - 🎮 I love watch anime, read manga, play videogames and, like a very self-respecting nerd, play D&D!
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cozzivincenzo.cozzivincenzo)
